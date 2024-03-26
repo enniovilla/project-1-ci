@@ -25,8 +25,15 @@ header {
     background-color: #fcdad7;
 }
 
-header h1 {
-    justify-content: center;
+#logo {
+    width: 150px;
+    height: max-content;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: #26174B;
 }
 
 #menu {
@@ -73,11 +80,6 @@ nav {
     justify-content: center;
 }
 
-#logo {
-    width: 150px;
-    height: max-content;
-}
-
 #display {
     display: flex;
     flex-direction: column;
@@ -86,19 +88,16 @@ nav {
     background: url(../images/bg.png) no-repeat center/cover;
 }
 
-#display h1 {
-    padding-top: 40px;
-    padding-bottom: 5px;
-    letter-spacing: 10px;
+.orange {
+    padding: 40px 0;
     color: #F05244;
     text-align: center;
 }
 
-#display h2 {
-    padding-top: 40px;
-    padding-bottom: 5px;
-    color: #F05244;
-    font-size: 30px;
+.dark-indigo {
+    padding: 40px 1rem;
+    color: #26174B;
+    text-align: center;
 }
 
 #display p {
@@ -153,12 +152,6 @@ nav {
     justify-content: center;
     align-items: center;
     background-color: #fcdad7;
-}
-
-#page-bottom h2 {
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 20px;
 }
 
 .container {
@@ -234,6 +227,36 @@ iframe {
     border-radius: 10px;
 }
 
+#story {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    padding: 0 2rem;
+    background: url(../images/bg.png) no-repeat center/cover;
+    color: #ffffff;
+    padding-bottom: 40px;
+}
+
+#team {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #fcdad7;
+    box-shadow: 0 -2px 2px #F05244;
+}
+
+.member1 {
+    background-color: url();
+}
+
+.profile {
+
+}
+
 footer {
     display: flex;
     justify-content: space-between;
@@ -263,28 +286,19 @@ footer i {
         padding: 0;
     }
 
-    header h1 {
-        font-size: 26px;
-        text-align: center;
-    }
-
     .nav-toggle-label {
         padding: 1rem;
     }
 
     #display p {
         text-align: center;
-        padding: 20px;
+        padding: 0 20px 40px;
     }
 
     #page-bottom {
         display: flex;
         flex-direction: column;
         padding-bottom: 40px;
-    }
-
-    #page-bottom h2 {
-        padding: 40px 20px 20px;
     }
 
     .container {
@@ -294,12 +308,16 @@ footer i {
 }
 
 @media screen and (min-width: 768px) {
+    h1 {
+        font-size: 34px;
+    }
+    
     nav {
         display: block;
         position: relative;
         box-shadow: none;
         width: fit-content;
-        padding-right: 0;
+        padding: 0 1rem 0 0;
     }
 
     #menu>li {
@@ -316,7 +334,6 @@ footer i {
         align-items: center;
         justify-content: space-between;
         text-align: center;
-        margin-right: 20px;
     }
 
     .nav-toggle-label {
