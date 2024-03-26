@@ -260,6 +260,7 @@ iframe {
     margin: 20px;
     background: url(../images/bg.png) no-repeat center/cover;
     border-radius: 10px;
+    box-shadow: 10px 10px 5px #26174b6e;
 }
 
 .portrait {
@@ -300,7 +301,8 @@ iframe {
     color: #ffffff;
 }
 
-.profile p:first-of-type {
+.name-pic p {
+    text-align: center;
     color: #F05244;
 }
 
@@ -358,7 +360,7 @@ footer i {
     h1 {
         font-size: 34px;
     }
-    
+
     nav {
         display: block;
         position: relative;
@@ -392,5 +394,41 @@ footer i {
         flex-wrap: wrap;
         justify-content: space-evenly;
         align-items: flex-start;
+    }
+
+    #team {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .profile {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .reverse {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .profile p {
+        padding: 20px;
+    }
+
+    .name-pic {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    section p {
+        max-width: 800px;
+    }
+
+    .team-container {
+        max-width: 1000px;
     }
 }
