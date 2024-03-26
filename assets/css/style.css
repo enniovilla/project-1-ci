@@ -173,7 +173,7 @@ nav {
 .frame {
     width: 100px;
     height: 100px;
-    border: 1px solid rgba(0, 0, 0, 0.041);
+    border: 3px solid #F05244;
     margin: 0 10px 10px 10px;
     border-radius: 50%;
 }
@@ -188,6 +188,7 @@ nav {
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
+    border: 3px solid #F05244;
     box-shadow: 10px 10px 5px #26174b6e;
     background: url(../images/bg.png) no-repeat center/cover;
 }
@@ -241,7 +242,7 @@ iframe {
 
 #team {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
@@ -249,12 +250,58 @@ iframe {
     box-shadow: 0 -2px 2px #F05244;
 }
 
-.member1 {
-    background-color: url();
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 3px solid #F05244;
+    margin: 20px;
+    background: url(../images/bg.png) no-repeat center/cover;
+    border-radius: 10px;
 }
 
-.profile {
+.portrait {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 0 10px 10px;
+    border: 3px solid #F05244;
+}
 
+.profile-photo1 {
+    background: url(../images/founder.jpg) no-repeat center/cover;
+}
+
+.profile-photo2 {
+    background: url(../images/manager.jpg) no-repeat center/cover;
+}
+
+.profile-photo3 {
+    background: url(../images/acting.jpg) no-repeat center/cover;
+}
+
+.profile-photo4 {
+    background: url(../images/dancing.jpg) no-repeat center/cover;
+}
+
+.profile-photo5 {
+    background: url(../images/singing.jpg) no-repeat center/cover;
+}
+
+.profile-photo6 {
+    background: url(../images/pianist.jpg) no-repeat center/cover;
+}
+
+.profile p {
+    text-align: justify;
+    padding: 10px 0;
+    color: #ffffff;
+}
+
+.profile p:first-of-type {
+    color: #F05244;
 }
 
 footer {
