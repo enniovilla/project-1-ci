@@ -18,33 +18,69 @@
 <body>
     <header>
         <a href="index.html"><img src="assets/images/logo.png" alt="Musical Theatre Berlin logo" id="logo"></a>
-        <nav>Menu</nav>
+        <div id="menu">
+            <div class="dropbtn"><i class="fa-solid fa-bars"></i></div>
+            <div class="menu-content">
+                <a href="index.html" aria-label="Go to the home page">Home</a>
+                <a href="aboutus.html" aria-label="Go to the about us page">About Us</a>
+                <a href="courses.html" aria-label="Go to the courses page">Courses</a>
+                <a href="gallery.html" aria-label="Go to the gallery page">Gallery</a>
+                <a href="contact.html" aria-label="Go to the contact page">Contact</a>
+                <a href="signup.html" aria-label="Go to the sign up page">Sign Up</a>
+            </div>
+        </div>
+
     </header>
     <main>
         <section id="display">
-            <h1>MTB</h1>
-            <h2>Sing, dance and theatre</h2>
-            <div>
-                <div class="poster"></div>
-                <div class="poster"></div>
-                <div class="poster"></div>
-                <div class="poster"></div>
+            <h1>Musical Theatre Berlin</h1>
+            <h3>Sing, dance and theatre</h3>
+            <br>
+            <p>See our courses below and sign up!</p>
+            <br>
+            <div id="showcase">
+                <div class="poster course1"></div>
+                <div class="poster course2"></div>
+                <div class="poster course3"></div>
+                <div class="poster course4"></div>
             </div>
         </section>
         <section id="page-bottom">
-            <div class="testimonial">
-                <div class="testimony"></div>
-                <div class="testimony"></div>
-                <div class="testimony"></div>
+            <div class="container">
+                <div>
+                    <h3>What our students have to say about us?</h3>
+                </div>
+                <div class="testimonial">
+                    <div class="card">
+                        <div class="person1 frame"></div>
+                        <p>Name</p>
+                        <p></p>
+                    </div>
+                    <div class="card">
+                        <div class="person2 frame"></div>
+                        <p>Name</p>
+                        <p></p>
+                    </div>
+                    <div class="card">
+                        <div class="person3 frame"></div>
+                        <p>Name</p>
+                        <p></p>
+                    </div>
+                </div>
             </div>
             <div class="youtube">
-
+                <iframe src="https://www.youtube.com/embed/4Ga6DmzPCNg?si=hT_LvsnfBKu42g7d" title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                </iframe>
             </div>
         </section>
     </main>
     <footer>
         Footer
     </footer>
+    <script src="https://kit.fontawesome.com/1014f68af8.js" crossorigin="anonymous"></script>
 </body>
 
 </html>

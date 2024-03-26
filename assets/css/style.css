@@ -4,7 +4,120 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Manrope', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
 #logo {
     width: 150px;
     height: 100px;
+}
+
+#display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+#showcase {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.poster {
+    width: 220px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.course1 {
+    background: url(/assets/images/hairspray.jpg) no-repeat center/cover;
+}
+
+.course2 {
+    background: url(/assets/images/rocky.jpg) no-repeat center/cover;
+}
+
+.course3 {
+    background: url(/assets/images/lesmiserables.jpg) no-repeat center/cover;
+}
+
+.course4 {
+    background: url(/assets/images/wizardofoz.jpg) no-repeat center/cover;
+}
+
+#page-bottom {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+#page-bottom h3 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.testimonial {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.frame {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.person1 {
+    background: url(/assets/images/person1.jpg) no-repeat center/cover;
+}
+
+.person2 {
+    background: url(/assets/images/person2.jpg) no-repeat center/cover;
+}
+
+.person3 {
+    background: url(/assets/images/person3.jpg) no-repeat center/cover;
+}
+
+.youtube {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: lightgray;
+    height: 60px;
 }
