@@ -8,6 +8,61 @@ body {
     font-family: 'Manrope', sans-serif;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #F05244;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: fit-content;
+    right: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
+}
+
+
+#nav-toggle:checked~nav {
+    display: flex;
+    flex-direction: column;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #logo {
@@ -20,7 +75,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #26174B;
+    background: url(../images/bg.png) no-repeat center/cover;
 }
 
 #display h1 {
@@ -53,7 +108,7 @@ body {
     width: 220px;
     height: 300px;
     border: 1px solid black;
-    margin: 10px;
+    margin: 20px;
     border-radius: 10px;
     box-shadow: 5px 10px 18px #F05244;
 }
@@ -106,7 +161,7 @@ body {
 .frame {
     width: 100px;
     height: 100px;
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0.041);
     margin: 0 10px 10px 10px;
     border-radius: 50%;
 }
