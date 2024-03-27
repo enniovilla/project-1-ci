@@ -30,7 +30,7 @@ header {
     height: max-content;
 }
 
-h1 {
+header h1 {
     font-size: 24px;
     text-align: center;
     color: #26174B;
@@ -378,9 +378,14 @@ iframe {
     padding-bottom: 40px;
 }
 
+#contact p {
+    padding-top: 40px;
+    font-size: 26px;
+    color: #26174B;
+}
+
 #full-name, #email {
     display: flex;
-    align-items: left;
     height: 2rem;
     width: 70%;
     border-radius: 5px;
@@ -531,6 +536,10 @@ footer i {
     #photos {
         column-count: 2;
     }
+
+    #full-name, #email {
+        width: 40%;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -563,6 +572,10 @@ footer i {
 
     #photos {
         column-count: 3;
+    }
+    
+    #contact-form {
+        max-width: 800px;
     }
 }
 
