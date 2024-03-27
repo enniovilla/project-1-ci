@@ -72,11 +72,6 @@ a {
     text-decoration: none;
 }
 
-.styled-button:hover {
-    background-color: #F05244;
-    text-decoration: none;
-}
-
 nav {
     position: absolute;
     width: fit-content;
@@ -480,8 +475,12 @@ footer i {
         text-decoration-thickness: 2px;
     }
 
-    .styled-button a {
+    #menu>li:last-of-type:hover {
         text-decoration: none;
+    }
+
+    .styled-button:hover {
+        background-color: #F05244;
     }
 
     #menu {
