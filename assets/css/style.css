@@ -53,6 +53,25 @@ a {
     color: black;
 }
 
+.styled-button {
+    background-color: #AB2D8E;
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.styled-button:hover {
+    background-color: #5E276F;
+    text-decoration: none;
+}
+
 nav {
     position: absolute;
     width: fit-content;
@@ -86,6 +105,11 @@ nav {
     justify-content: center;
     align-items: center;
     background: url(../images/bg.png) no-repeat center/cover;
+}
+
+#display h2 {
+    font-size: 50px;
+    letter-spacing: 8px;
 }
 
 .orange {
@@ -360,7 +384,7 @@ footer i {
 
 @media screen and (min-width: 768px) {
     h1 {
-        font-size: 34px;
+        font-size: 28px;
     }
 
     nav {
@@ -368,7 +392,7 @@ footer i {
         position: relative;
         box-shadow: none;
         width: fit-content;
-        padding: 0 1rem 0 0;
+        padding: 0;
     }
 
     #menu>li {
@@ -378,6 +402,10 @@ footer i {
 
     #menu>li:hover {
         text-decoration: underline;
+    }
+
+    .styled-button a {
+        text-decoration: none;
     }
 
     #menu {
@@ -426,6 +454,10 @@ footer i {
 }
 
 @media screen and (min-width: 1024px) {
+    h1 {
+        font-size: 34px;
+    }
+    
     section p {
         max-width: 800px;
     }
