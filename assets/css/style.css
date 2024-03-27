@@ -158,6 +158,7 @@ nav {
 }
 
 #showcase .poster:hover {
+    cursor: pointer;
     box-shadow: 0 0 50px 10px #AB2D8E;
 }
 
