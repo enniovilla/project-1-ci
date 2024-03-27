@@ -54,7 +54,7 @@ a {
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid #F05244;
 }
 
 .styled-button {
@@ -476,6 +476,8 @@ footer i {
 
     #menu>li:hover {
         text-decoration: underline;
+        text-decoration-color: #F05244;
+        text-decoration-thickness: 2px;
     }
 
     .styled-button a {
