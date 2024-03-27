@@ -350,6 +350,18 @@ iframe {
     text-align: center;
 }
 
+#gallery {
+    background: url(../images/bg.png) no-repeat center/cover;
+    padding: 0 20px 40px;
+}
+
+#photos img {
+    width: 100%;
+    border: 3px solid #F05244;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
 footer {
     display: flex;
     justify-content: space-between;
@@ -480,6 +492,10 @@ footer i {
         display: flex;
         flex-direction: column;
     }
+
+    #photos {
+        column-count: 2;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -508,6 +524,10 @@ footer i {
     #courses {
         display: flex;
         flex-direction: column;
+    }
+
+    #photos {
+        column-count: 3;
     }
 }
 
