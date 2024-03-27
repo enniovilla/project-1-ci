@@ -366,7 +366,7 @@ iframe {
     align-items: center;
 }
 
-#contact-form {
+#form {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -387,7 +387,7 @@ iframe {
     color: #26174B;
 }
 
-#full-name, #email {
+.form-styling {
     display: flex;
     height: 2rem;
     width: 70%;
@@ -415,26 +415,14 @@ iframe {
 
 #signup p {
     text-align: center;
-    padding: 0 10px 20px;
-}
-
-#signup-form {
-
+    padding: 0 10px 40px;
+    color: #ffffff;
 }
 
 #signup-form-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80%;
-    margin: 0 0 40px;
-    border: 3px solid #F05244;
-    border-radius: 10px;
-    box-shadow: 10px 10px 5px #26174b6e;
-    background: url(../images/bg.png) no-repeat center/cover;
-    color: #ffffff;
-    font-weight: bold; 
-    padding-bottom: 40px;
 }
 
 footer {
@@ -613,7 +601,7 @@ footer i {
         column-count: 3;
     }
     
-    #contact-form {
+    #form {
         max-width: 800px;
     }
 }

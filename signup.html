@@ -36,18 +36,22 @@
         <section id="signup" class="bg">
             <h2 class="orange">Sign Up</h2>
             <p>Enter your details below and choose which course you would like to take. We'll get back to you soon!</p>
-            <div id="signup-form-container">
-                <form method="post" action="https://formdump.codeinstitute.net" id="signup-form">
+                <form method="post" action="https://formdump.codeinstitute.net" id="form">
                     <label for="first-name">First Name</label>
                     <input type="text" name="first-name" id="first-name" required>
+                    <br>
                     <label for="last-name">Last Name</label>
                     <input type="text" name="last-name" id="last-name" required>
+                    <br>
                     <label for="phone-number">Phone Number</label>
                     <input type="number" name="phone-number" id="phone-number" required>
-                    <label for="email-address">Email Address</label>
-                    <input type="email" name="email-address" id="email-address" required>
+                    <br>
+                    <label for="email">Email Address</label>
+                    <input type="email" name="email" id="email" required>
+                    <br>
                     <label for="pronouns">What are your pronouns?</label>
                     <input type="text" name="pronouns" id="pronouns" required>
+                    <br>
                     <label for="dropdown">Which course would you like to take?</label>
                     <select name="dropdown" id="dropdown" required>
                         <option value=""></option>
@@ -56,9 +60,9 @@
                         <option value="les-miserables">Les Misérables</option>
                         <option value="wizard-of-oz">The Wizard of Oz</option>
                     </select>
+                    <br>
                     <input type="submit" class="styled-button" value="Send">
                 </form>
-            </div>
         </section>
     </main>
     <footer>
