@@ -104,6 +104,10 @@ nav {
     background: linear-gradient(to bottom, #26174B, #fcdad7);
 }
 
+main {
+        /* Add margin at the top to prevent content from being covered by the header */
+        margin-top: 70px;
+}
 #display {
     display: flex;
     flex-direction: column;
