@@ -53,6 +53,10 @@ a {
     color: black;
 }
 
+.active {
+    border-bottom: 1px solid black;
+}
+
 .styled-button {
     background-color: #AB2D8E;
     border: none;
@@ -108,6 +112,7 @@ main {
         /* Add margin at the top to prevent content from being covered by the header */
         margin-top: 70px;
 }
+
 #display {
     display: flex;
     flex-direction: column;
