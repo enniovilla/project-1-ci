@@ -144,9 +144,13 @@ nav {
 .poster {
     width: 220px;
     height: 300px;
-    border: 1px solid rgba(0, 0, 0, 0.192);
     margin: 20px;
     border-radius: 10px;
+}
+
+.poster-border {
+    margin: 30px 10px 0;
+    border: 3px solid #F05244;
 }
 
 .poster:hover {
@@ -275,7 +279,7 @@ iframe {
     padding-bottom: 40px;
 }
 
-.profile {
+.description {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -287,6 +291,7 @@ iframe {
     border-radius: 10px;
     box-shadow: 10px 10px 5px #26174b6e;
 }
+
 
 .portrait {
     width: 200px;
@@ -320,7 +325,7 @@ iframe {
     background: url(../images/pianist.jpg) no-repeat center/cover;
 }
 
-.profile p {
+.description p {
     text-align: justify;
     padding: 10px 0;
     color: #ffffff;
@@ -330,6 +335,19 @@ iframe {
     justify-content: center;
     text-align: center;
     color: #F05244;
+}
+
+#courses {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom, #26174B, #fcdad7);
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+#courses .description p:nth-last-child(-n+2) {
+    text-align: center;
 }
 
 footer {
@@ -432,7 +450,7 @@ footer i {
         justify-content: flex-start;
     }
 
-    .profile {
+    .description {
         display: flex;
         flex-direction: row;
     }
@@ -442,7 +460,7 @@ footer i {
         flex-direction: row-reverse;
     }
 
-    .profile p {
+    .description p {
         padding: 20px;
     }
 
@@ -451,13 +469,24 @@ footer i {
         flex-flow: column;
         align-items: center;
     }
+
+    #courses {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    #courses .description {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 @media screen and (min-width: 1024px) {
     h1 {
         font-size: 34px;
     }
-    
+
     section p {
         max-width: 800px;
     }
@@ -468,7 +497,7 @@ footer i {
         flex-direction: column;
     }
 
-    .profile {
+    .description {
         width: 50rem;
     }
 
@@ -485,7 +514,12 @@ footer i {
         width: 100%;
     }
 
-    .profile {
+    .description {
         width: calc(50% - 40px);
+    }
+
+    #courses .description {
+        max-width: 600px;
+        margin: 40px;
     }
 }
