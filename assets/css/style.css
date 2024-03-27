@@ -387,7 +387,7 @@ iframe {
     color: #26174B;
 }
 
-.form-styling {
+.form-style {
     display: flex;
     height: 2rem;
     width: 70%;
@@ -564,7 +564,7 @@ footer i {
         column-count: 2;
     }
 
-    #full-name, #email {
+    .form-style {
         width: 40%;
     }
 }
