@@ -248,6 +248,7 @@ iframe {
     justify-content: center;
     background-color: #fcdad7;
     box-shadow: 0 -2px 2px #F05244;
+    padding-bottom: 40px;
 }
 
 .profile {
@@ -302,6 +303,7 @@ iframe {
 }
 
 .name-pic p {
+    justify-content: center;
     text-align: center;
     color: #F05244;
 }
@@ -429,6 +431,29 @@ footer i {
     }
 
     .team-container {
-        max-width: 1000px;
+        width: 900px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .profile {
+        width: 50rem;
+    }
+
+    .reverse {
+        margin-left: auto;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .team-container {
+        display: flex;
+        flex-flow: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .profile {
+        width: calc(50% - 40px);
     }
 }
