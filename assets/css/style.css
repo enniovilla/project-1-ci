@@ -61,6 +61,7 @@ a {
     text-align: center;
     display: inline-block;
     font-size: 16px;
+    font-weight: bold;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 10px;
@@ -99,7 +100,7 @@ nav {
     justify-content: center;
 }
 
-#bg {
+.bg {
     background: linear-gradient(to bottom, #26174B, #fcdad7);
 }
 
