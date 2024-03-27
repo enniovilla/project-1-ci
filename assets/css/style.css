@@ -162,11 +162,6 @@ main {
     border-radius: 10px;
 }
 
-.poster-border {
-    margin: 30px 10px 0;
-    border: 3px solid #F05244;
-}
-
 #showcase .poster:hover {
     cursor: pointer;
     box-shadow: 0 0 50px 10px #F05244;
