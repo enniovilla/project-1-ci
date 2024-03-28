@@ -115,7 +115,11 @@ Here the user will find pictures of the school's latest works.
 There is a contact form and the school's Google Maps location so that the user can locate the school
 ![MTB Contact Page](documentation/contact-page.gif)
 
-### Sing Up Page
+### Sign Up Page
 
 Anyone wishing to enroll in one of the courses can do so on this page, which contains the sign up form and the terms and conditions.
 ![MTB Sign Up Page](documentation/signup-page.gif)
+
+## Future Features
+
+One feature I would like to have in the future is a carousel with images of course posters instead of having them static.
