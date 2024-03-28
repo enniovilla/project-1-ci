@@ -419,10 +419,12 @@ iframe {
     color: #ffffff;
 }
 
-#signup-form-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+#signup #form {
+padding: 40px 10px;
+}
+
+#form label {
+    text-align: center;
 }
 
 footer {
