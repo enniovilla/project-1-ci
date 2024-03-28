@@ -7,3 +7,22 @@ Located in the vibrant cultural hub of Berlin, Musical Theatre Berlin stands as 
 You can visit the deployed site here [Musical Theatre Berlin](https://enniovilla.github.io/project-1-ci/)
 
 ![Musical Theatre Berlin](assets/images/am-i-responsive.png)
+
+## Content
+
+## User Experience (UX)
+
+### User Stories
+
+#### First Time User
+
+* I want to take musical theater classes.
+* I want the site to be responsive on my device.
+* I want the information to be easy to find.
+* I want the site to be easy to navigate
+
+#### Returning User
+
+* I want to check the starting dates
+* I want to contact the school
+* I want to sign up
