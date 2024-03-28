@@ -163,19 +163,19 @@ main {
 }
 
 .course1 {
-    background: url(/assets/images/hairspray.jpg) no-repeat center/cover;
+    background: url(../images/hairspray.jpg) no-repeat center/cover;
 }
 
 .course2 {
-    background: url(/assets/images/rocky.jpg) no-repeat center/cover;
+    background: url(../images/rocky.jpg) no-repeat center/cover;
 }
 
 .course3 {
-    background: url(/assets/images/lesmiserables.jpg) no-repeat center/cover;
+    background: url(../images/lesmiserables.jpg) no-repeat center/cover;
 }
 
 .course4 {
-    background: url(/assets/images/wizardofoz.jpg) no-repeat center/cover;
+    background: url(../images/wizardofoz.jpg) no-repeat center/cover;
 }
 
 #page-bottom {
