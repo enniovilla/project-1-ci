@@ -4,7 +4,7 @@ Located in the vibrant cultural hub of Berlin, Musical Theater Berlin stands as 
 
 **Sing! Dance! Act!**
 
-Visit the deployed website here [Musical Theater Berlin](https://enniovilla.github.io/project-1-ci/)
+Visit the deployed website here → [Musical Theater Berlin](https://enniovilla.github.io/project-1-ci/)
 
 ![Musical Theater Berlin](documentation/am-i-responsive.png)
 
@@ -39,23 +39,23 @@ Figma was the software I opted to create the wireframes. I created wireframes fo
 <details>
 <summary>Wireframes</summary>
 <br><br>
-<div style="text-align: center">Home page<br>
-<img src="documentation/figma-home.png" width="80%"></div>
+Home page<br>
+<img src="documentation/figma-home.png">
 <br><br>
-<div style="text-align: center">About us page<br>
-<img src="documentation/figma-aboutus.png" width="80%"></div>
+About us page<br>
+<img src="documentation/figma-aboutus.png">
 <br><br>
-<div style="text-align: center">Courses page<br>
-<img src="documentation/figma-courses.png" width="80%"></div>
+Courses page<br>
+<img src="documentation/figma-courses.png">
 <br><br>
-<div style="text-align: center">Gallery page<br>
-<img src="documentation/figma-gallery.png" width="80%"></div>
+Gallery page<br>
+<img src="documentation/figma-gallery.png">
 <br><br>
-<div style="text-align: center">Contact page<br>
-<img src="documentation/figma-contact.png" width="80%"></div>
+Contact page<br>
+<img src="documentation/figma-contact.png">
 <br><br>
-<div style="text-align: center">Sign Up page<br>
-<img src="documentation/figma-signup.png" width="80%"></div>
+Sign Up page<br>
+<img src="documentation/figma-signup.png">
 </details>
 
 ### Color Scheme
@@ -77,7 +77,9 @@ On the website I used a background image created in Canva in purple/dark blue wi
 
 The font I chose to use is [Open Sans](https://fonts.google.com/specimen/Open+Sans) from Google Fonts and as a fall back font, sans-serif.
 
-## Features
+## Features and Future Features
+
+### Features
 
 This website includes 6 pages and all of them are responsive. They are: Home, About Us, Courses, Gallery, Contact and Sign Up. On each page we have:
 
@@ -120,7 +122,7 @@ There is a contact form and the school's Google Maps location so that the user c
 Anyone wishing to enroll in one of the courses can do so on this page, which contains the sign up form and the terms and conditions.
 ![MTB Sign Up Page](documentation/signup-page.gif)
 
-## Future Features
+### Future Features
 
 One feature I would like to have in the future is a carousel with images of course posters instead of having them static.
 
@@ -138,3 +140,28 @@ One feature I would like to have in the future is a carousel with images of cour
 - [Am I Responsive?](https://ui.dev/amiresponsive) to display the website image across various devices.
 - [Font Awesome](https://fontawesome.com/) to add icons on the website.
 - [Canva](https://www.canva.com/) to create the website's background image.
+
+## Deployment, Fork and Clone
+
+### Deployment
+
+1. Log in to Github.
+2. Go to the repository for the project.
+3. Click the settings button.
+4. Select **Pages** in the left navigation menu under Code and Automation.
+5. From the source dropdown select main branch and root. Press the save button.
+6. The site has been deployed. It may take a few minutes before the site goes live.
+
+### How to Fork
+
+1. Log in to Github.
+2. Go to the repository for the project.
+3. Click the Fork button in the top right corner.
+
+## How to Clone
+
+1. Log in to GitHub.
+2. Go to the repository for the project.
+3. Click on the green code button and select if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link below.
+4. Navigate to the directory where you want to clone the repository and open terminal.
+5. Type 'git clone' into the terminal and paste the link you have from number 3. Press enter. This command will download the entire repository to your local machine.
