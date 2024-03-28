@@ -158,10 +158,13 @@ One feature I would like to have in the future is a carousel with images of cour
 2. Go to the repository for the project.
 3. Click the Fork button in the top right corner.
 
-## How to Clone
+### How to Clone
 
 1. Log in to GitHub.
 2. Go to the repository for the project.
-3. Click on the green code button and select if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link below.
+3. Click on the **green Code button** and select if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link below.
 4. Navigate to the directory where you want to clone the repository and open terminal.
-5. Type 'git clone' into the terminal and paste the link you have from number 3. Press enter. This command will download the entire repository to your local machine.
+5. Type *git clone* into the terminal and paste the link you have from number 3. Press enter. This command will download the entire repository to your local machine.
+
+## Testing
+
