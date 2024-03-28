@@ -87,7 +87,35 @@ This website includes 6 pages and all of them are responsive. They are: Home, Ab
 - A navigation bar with clickable logo and names that will take the ser to the home page and the menu with sign up button highlighted to facilitate the user experience. If the user can scroll down, the navigation bar will be fixed at the top of the screen for easy access.
 ![MTB Nav bar](documentation/nav-bar.png)
 
-### The home page
+### The Home Page
 
 On the home page the user will find the message **Sing! Dance! Act!** which clearly gives the idea of what the website is about. Below that the user will also find the poster of the upcoming courses, which are highlighted when hovering over them and are clickable, taking to the description of each course if clicked.
 ![MTB posters](documentation/home-page.gif)
+
+At the bottom of the page there are some cards with testimonials from former students and just below that a more recent youtube video of a piece from the school that doesn't autoplay.
+![MTB youtube](documentation/bottom-home-page.gif)
+
+### The About Us Page
+
+This page comprises the story of the school and a short biography of the teachers and staff.
+![MTB About Us Page](documentation/about-us-page.gif)
+
+### The Courses Page
+
+On this page the user can see the description of the courses, the start and end date, as well as the button that takes them to the sign up page under each of the posters.
+![MTB Courses Page](documentation/courses-page.gif)
+
+### Gallery Page
+
+Here the user will find pictures of the school's latest works.
+![MTB Gallery Page](documentation/gallery-page.gif)
+
+### Contact Page
+
+There is a contact form and the school's Google Maps location so that the user can locate the school
+![MTB Contact Page](documentation/contact-page.gif)
+
+### Sing Up Page
+
+Anyone wishing to enroll in one of the courses can do so on this page, which contains the sign up form and the terms and conditions.
+![MTB Sign Up Page](documentation/signup-page.gif)
