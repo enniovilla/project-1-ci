@@ -168,3 +168,17 @@ One feature I would like to have in the future is a carousel with images of cour
 
 ## Testing
 
+### Automated Testing
+
+#### W3C Validator
+[W3C](https://validator.w3.org/) checked the HTML of the 6 pages and they passed the validation. A warning message shows up in all validations due to importing the font from Google Fonts.<br>The full results of the validations are shown below.
+- [Home page](documentation/testing/index.pdf)
+- [About Us page](documentation/testing/about-us.pdf)
+- [Courses page](documentation/testing/courses.pdf)
+- [Gallery page](documentation/testing/gallery.pdf)
+- [Contact page](documentation/testing/contact.pdf)
+- [Sign Up page](documentation/testing/signup.pdf)
+
+#### CSS Validator
+The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and passed the test. To see the full result, click on the name below.
+- [CSS](documentation/testing/css-validation.pdf)
