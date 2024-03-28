@@ -383,7 +383,7 @@ iframe {
 
 #contact p {
     color: #ffffff;
-    padding-bottom: 20px;
+    padding: 0 20px 20px;
     text-align: center;
 }
 
@@ -470,6 +470,11 @@ footer i {
     .container {
         width: 100%;
         padding-bottom: 40px;
+    }
+
+    #form {
+        width: 90%;
+        max-width: 800px;
     }
 }
 
