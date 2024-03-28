@@ -1,12 +1,12 @@
-# Musical Theatre Berlin
+# Musical Theater Berlinsite
 
-Located in the vibrant cultural hub of Berlin, Musical Theatre Berlin stands as a beacon of creativity and talent. Nestled amidst the city's rich artistic heritage, our institution offers a dynamic environment where aspiring performers cultivate their skills and passion for the stage. With a diverse curriculum blending rigorous training in acting, singing, and dancing, our experienced faculty guide students through a transformative journey towards artistic excellence. Through collaborative projects, live performances, and immersive experiences, we foster a supportive community that celebrates individuality and fosters collective growth. Whether dreaming of dazzling audiences on Broadway or gracing the stages of Europe's renowned theaters, our students emerge prepared to shine in the spotlight of the global stage.
+Located in the vibrant cultural hub of Berlin, Musical Theater Berlin stands as a beacon of creativity and talent. Nestled amidst the city's rich artistic heritage, our institution offers a dynamic environment where aspiring performers cultivate their skills and passion for the stage. With a diverse curriculum blending rigorous training in acting, singing, and dancing, our experienced faculty guide students through a transformative journey towards artistic excellence. Through collaborative projects, live performances, and immersive experiences, we foster a supportive community that celebrates individuality and fosters collective growth. Whether dreaming of dazzling audiences on Broadway or gracing the stages of Europe's renowned theaters, our students emerge prepared to shine in the spotlight of the global stage.
 
 **Sing! Dance! Act!**
 
-Visit the deployed site here [Musical Theatre Berlin](https://enniovilla.github.io/project-1-ci/)
+Visit the deployed website here [Musical Theater Berlin](https://enniovilla.github.io/project-1-ci/)
 
-![Musical Theatre Berlin](documentation/am-i-responsive.png)
+![Musical Theater Berlin](documentation/am-i-responsive.png)
 
 ## Content
 
@@ -17,9 +17,9 @@ Visit the deployed site here [Musical Theatre Berlin](https://enniovilla.github.
 #### First Time User
 
 * I want to take musical theater classes.
-* I want the site to be responsive on my device.
+* I want the website to be responsive on my device.
 * I want the information to be easy to find.
-* I want the site to be easy to navigate
+* I want the website to be easy to navigate
 
 #### Returning User
 
@@ -29,9 +29,9 @@ Visit the deployed site here [Musical Theatre Berlin](https://enniovilla.github.
 
 ## Design
 
-### Site Structure
+### Website Structure
 
-The website consists of 6 page website that the user can navigate via the navigation bar, being the Home page the default loading page. The logo is in the top left corner and the menu is in the top right corner. In the middle is the name Musical Theatre Berlin, which is clickable and takes the user to the home page. This navigation bar on small screen devices ends up centralizing the three elements and the menu becomes a dropdown menu.
+The website consists of 6 page website that the user can navigate via the navigation bar, being the Home page the default loading page. The logo is in the top left corner and the menu is in the top right corner. In the middle is the name Musical Theater Berlin, which is clickable and takes the user to the home page. This navigation bar on small screen devices ends up centralizing the three elements and the menu becomes a dropdown menu.
 
 ### Wireframes
 
@@ -62,12 +62,12 @@ Figma was the software I opted to create the wireframes. I created wireframes fo
 
 I wanted to play around with the colors a bit, so I chose to keep the navigation bar in a light color and the top part of the background always in a dark tone and the bottom part in a light tone, since the footer is in a dark tone, so I could have a nice contrast on the page and not irritating the user's eyes.
 
-On the website I used a background image created in Canvas in purple/dark blue with musical notes in grayish colors and on the pages where I didn't use this image, I used a gradient of the dark tone with the light tone, thus playing with colors going from the darkest to the lightest tone.
+On the website I used a background image created in Canva in purple/dark blue with musical notes in grayish colors and on the pages where I didn't use this image, I used a gradient of the dark tone with the light tone, thus playing with colors going from the darkest to the lightest tone.
 
 - I used the color `#FCDAD7` in the navigation bar.
 - I used the color `#F05244` for the edges of the containers on every page of the website. This color also appears when the user hovers over the buttons and the posters on the main page.
 - The gradient in the background when I didn't use the background image is made with the colors `#26174B` and `#FCDAD7`.
-- The background image created on Canvas has color `#26174B`.
+- The background image created on Canva has color `#26174B`.
 - On the buttons I chose `#AB2D8` to be the color.
 - The logo has three colors: `#F05244`, `#AB2D8` and `#5E276F`.
 
@@ -112,7 +112,7 @@ Here the user will find pictures of the school's latest works.
 
 ### Contact Page
 
-There is a contact form and the school's Google Maps location so that the user can locate the school
+There is a contact form and the school's Google Maps location so that the user can locate the school.
 ![MTB Contact Page](documentation/contact-page.gif)
 
 ### Sign Up Page
@@ -123,3 +123,18 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 ## Future Features
 
 One feature I would like to have in the future is a carousel with images of course posters instead of having them static.
+
+## Technologies Used
+
+- HTML5 to create the website structure.
+- CSS3 to style the website.
+- [Git](https://git-scm.com/) for version control.
+- [GitPod](https://www.gitpod.io/) as IDE to create the website.
+- [GitHub](https://github.com/) to store files for the website.
+- [Figma](https://www.figma.com/) to create the wireframes.
+- [Chat GPT](https://chat.openai.com/) to generate fictional texts about the school's history and people's biographies.
+- [Google Fonts](https://fonts.google.com/) to import the font used on the website.
+- [Favicon.io](https://favicon.io/) to create favicon.
+- [Am I Responsive?](https://ui.dev/amiresponsive) to display the website image across various devices.
+- [Font Awesome](https://fontawesome.com/) to add icons on the website.
+- [Canva](https://www.canva.com/) to create the website's background image.
