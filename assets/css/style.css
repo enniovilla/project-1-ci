@@ -429,6 +429,18 @@ padding: 40px 10px;
     width: 70%;
 }
 
+.terms {
+    width: 60%;
+    text-justify: distribute;
+    margin-bottom: 30px;
+    font-weight: lighter;
+}
+
+.terms li {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
 footer {
     display: flex;
     justify-content: space-between;
