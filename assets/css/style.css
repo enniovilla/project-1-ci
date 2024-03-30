@@ -113,7 +113,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(../images/bg.webp) no-repeat center/cover;
 }
 
 #display h2 {
@@ -163,19 +163,19 @@ main {
 }
 
 .course1 {
-    background: url(../images/hairspray.jpg) no-repeat center/cover;
+    background: url(../images/hairspray.webp) no-repeat center/cover;
 }
 
 .course2 {
-    background: url(../images/rocky.jpg) no-repeat center/cover;
+    background: url(../images/rocky.webp) no-repeat center/cover;
 }
 
 .course3 {
-    background: url(../images/lesmiserables.jpg) no-repeat center/cover;
+    background: url(../images/lesmiserables.webp) no-repeat center/cover;
 }
 
 .course4 {
-    background: url(../images/wizardofoz.jpg) no-repeat center/cover;
+    background: url(../images/wizardofoz.webp) no-repeat center/cover;
 }
 
 #page-bottom {
@@ -221,7 +221,7 @@ main {
     border-radius: 10px;
     border: 3px solid #F05244;
     box-shadow: 10px 10px 5px #26174b6e;
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(../images/bg.webp) no-repeat center/cover;
 }
 
 .card p:first-of-type {
@@ -235,15 +235,15 @@ main {
 }
 
 .person1 {
-    background: url(../images/person1.jpg) no-repeat center/cover;
+    background: url(../images/person1.webp) no-repeat center/cover;
 }
 
 .person2 {
-    background: url(../images/person2.jpg) no-repeat center/cover;
+    background: url(../images/person2.webp) no-repeat center/cover;
 }
 
 .person3 {
-    background: url(../images/person3.jpg) no-repeat center/cover;
+    background: url(../images/person3.webp) no-repeat center/cover;
 }
 
 iframe {
@@ -259,7 +259,7 @@ iframe {
     justify-content: center;
     text-align: justify;
     padding: 0 2rem;
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(../images/bg.webp) no-repeat center/cover;
     color: #ffffff;
     padding-bottom: 40px;
 }
@@ -283,7 +283,7 @@ iframe {
     padding: 20px;
     border: 3px solid #F05244;
     margin: 20px;
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(../images/bg.webp) no-repeat center/cover;
     border-radius: 10px;
     box-shadow: 10px 10px 5px #26174b6e;
 }
@@ -301,27 +301,27 @@ iframe {
 }
 
 .profile-photo1 {
-    background: url(../images/founder.jpg) no-repeat center/cover;
+    background: url(../images/founder.webp) no-repeat center/cover;
 }
 
 .profile-photo2 {
-    background: url(../images/manager.jpg) no-repeat center/cover;
+    background: url(../images/manager.webp) no-repeat center/cover;
 }
 
 .profile-photo3 {
-    background: url(../images/acting.jpg) no-repeat center/cover;
+    background: url(../images/acting.webp) no-repeat center/cover;
 }
 
 .profile-photo4 {
-    background: url(../images/dancing.jpg) no-repeat center/cover;
+    background: url(../images/dancing.webp) no-repeat center/cover;
 }
 
 .profile-photo5 {
-    background: url(../images/singing.jpg) no-repeat center/cover;
+    background: url(../images/singing.webp) no-repeat center/cover;
 }
 
 .profile-photo6 {
-    background: url(../images/pianist.jpg) no-repeat center/cover;
+    background: url(../images/pianist.webp) no-repeat center/cover;
 }
 
 .description p {
@@ -350,7 +350,7 @@ iframe {
 }
 
 #gallery {
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(../images/bg.webp) no-repeat center/cover;
     padding: 0 20px 40px;
 }
 
@@ -376,7 +376,7 @@ iframe {
     border: 3px solid #F05244;
     border-radius: 10px;
     box-shadow: 10px 10px 5px #26174b6e;
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(../images/bg.webp) no-repeat center/cover;
     color: #ffffff;
     font-weight: bold;
     padding-bottom: 40px;
