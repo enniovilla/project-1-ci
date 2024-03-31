@@ -141,6 +141,7 @@ One feature I would like to have in the future is a carousel with images of cour
 - [Font Awesome](https://fontawesome.com/) to add icons on the website.
 - [Canva](https://www.canva.com/) to create the website's background image.
 - [Pixelied](https://pixelied.com/) to convert images to WEBP.
+- [Tinify](https://tinypng.com/) to compress images.
 
 ## Deployment, Fork and Clone
 

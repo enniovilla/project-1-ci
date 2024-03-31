@@ -288,6 +288,10 @@ iframe {
     box-shadow: 10px 10px 5px #26174b6e;
 }
 
+.description .styled-button {
+    margin-top: 20px;
+}
+
 .courses-container .description {
     padding: 30px 20px 20px;
 }
@@ -326,7 +330,7 @@ iframe {
 
 .description p {
     text-align: justify;
-    padding: 10px 0;
+    padding: 20px 0 0;
     color: #ffffff;
 }
 
@@ -558,10 +562,6 @@ footer i {
     .reverse {
         display: flex;
         flex-direction: row-reverse;
-    }
-
-    .description p {
-        padding: 20px;
     }
 
     .name-pic {
