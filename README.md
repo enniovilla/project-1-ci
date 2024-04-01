@@ -1,4 +1,4 @@
-# Musical Theater Berlinsite
+# Musical Theater Berlin
 
 Located in the vibrant cultural hub of Berlin, Musical Theater Berlin stands as a beacon of creativity and talent. Nestled amidst the city's rich artistic heritage, our institution offers a dynamic environment where aspiring performers cultivate their skills and passion for the stage. With a diverse curriculum blending rigorous training in acting, singing, and dancing, our experienced faculty guide students through a transformative journey towards artistic excellence. Through collaborative projects, live performances, and immersive experiences, we foster a supportive community that celebrates individuality and fosters collective growth. Whether dreaming of dazzling audiences on Broadway or gracing the stages of Europe's renowned theaters, our students emerge prepared to shine in the spotlight of the global stage.
 
@@ -184,3 +184,32 @@ One feature I would like to have in the future is a carousel with images of cour
 #### CSS Validator
 The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and passed the test. To see the full result, click on the name below.
 - [CSS](documentation/testing/css-validation.pdf)
+
+#### Lighthouse
+
+
+### Manual Testing
+
+#### Testing User Stories
+
+- First time visitors
+
+| Expectation | Result |
+| :--- | :--- |
+| I want to enroll in a musical theater school. | I have created a website that is very easy to understand its goal since the first page. |
+| I want the website to have easy navigation. | I have created a website with easy navigation bar and buttons. |
+| I want responsiveness from my website. | The website has full responsiveness. |
+
+- Returning Visitors
+
+| Expectation | Result |
+| :--- | :--- |
+| I want to see which courses the school has to offer. | The user can see this information by clicking the button "Courses" in the navigation bar or click on the posters on the home page. |
+| I want to sign up for the courses. | I have created a highlighted Sign Up button in the navigation bar and below each course discription on the courses page. |
+| I want to enroll in the school easily. | The sign up form has very few boxes to fill. |
+
+- Frequent Visitors
+
+| Expectation | Result |
+| :--- | :--- |
+| I want to see if the school has new courses to offer. | I have created a display on the home page, so the user can easily see our current courses. |
