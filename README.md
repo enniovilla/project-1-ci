@@ -240,14 +240,14 @@ I tested all the buttons and links throughout the creation of the website and di
 
 | Feature | Expectation | Action | Result |
 | :--- | :--- | :--- | :--- |
-| Website's Logo | Takes the user to the home page | Clicked Logo | Home page loads |
-| Website's Title | Takes the user to the home page | Clicked Title | Home page loads |
-| Navigation bar buttons | Takes the user to the respective page | Clicked button | Respective page loads |
-| Stylized buttons | Change color when the mouse hovers over them | Hovered mouse over buttons | The color changes |
-| Musical posters on the home page | Highlighted when the mouse hovers over them | Hovered mouse over posters | Highlights border |
-| Sign up and Send buttons | Submit forms | Clicked button | Submit form |
-| Send form without white space | Form cannot be sent with white spaces | Tested submitting with white space on each label | The form is not sent |
-| Social media links | Social media links should open externally | Clicked on social media icons at the bottom of the page | The links open externally |
+| Website's Logo | Takes the user to the home page. | Clicked Logo. | Home page loads. |
+| Website's Title | Takes the user to the home page. | Clicked Title. | Home page loads. |
+| Navigation bar buttons | Takes the user to the respective page. | Clicked button. | Respective page loads. |
+| Stylized buttons | Change color when the mouse hovers over them.| Hovered mouse over buttons. | The color changes. |
+| Musical posters on the home page | Highlighted when the mouse hovers over them. | Hovered mouse over posters. | Highlights border. |
+| Sign up and Send buttons | Submit forms. | Clicked button. | Submit form. |
+| Send form without white space | Form cannot be sent with white spaces. | Tested submitting with white space on each label. | The form is not sent. |
+| Social media links | Social media links should open externally. | Clicked on social media icons at the bottom of the page. | The links open externally. |
 
 #### Browser Testing
 
@@ -255,10 +255,10 @@ I tested the website in different browsers, both on computer and mobile.
 
 | Browser | Result |
 | :--- | :--- |
-| Google Chrome | The website is responsive |
-| Microsoft Edge | The website is responsive |
-| Mozilla Firefox | The website is responsive |
-| Opera | The website is responsive |
+| Google Chrome | The website is responsive. |
+| Microsoft Edge | The website is responsive. |
+| Mozilla Firefox | The website is responsive. |
+| Opera | The website is responsive. |
 
 ### Automated Testing
 
