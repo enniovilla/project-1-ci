@@ -53,6 +53,10 @@ Visit the deployed website here → [Musical Theater Berlin](https://enniovilla.
 * I want to contact the school
 * I want to sign up
 
+#### Frequent User
+
+* I want to check the new courses
+
 ## Design
 
 ### Website Structure
@@ -274,7 +278,7 @@ The website doesn't work as expected in the Safari browser for iOS and I couldn'
 
 ## Credits
 
-- I used [Kera Cudmore's Quiz Arms Readme](https://github.com/kera-cudmore/TheQuizArms/blob/main/README.md) as the basis for my project's Readme.
+- I used [Kera Cudmore's Quiz Arms Readme](https://github.com/kera-cudmore/TheQuizArms/blob/main/README.md) as an inspiration for my project's Readme.
 - Kevin Powell helped me understand flexbox with [this video](https://www.youtube.com/watch?v=u044iM9xsWU&t=986s) and Figma with [this one](https://www.youtube.com/watch?v=eZJOSK4gXl4&t=1206s).
 - [The ultimate guide to web performance](https://www.youtube.com/watch?v=0fONene3OIA) was useful to make me understand how to improve the performance of my website.
 
