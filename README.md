@@ -57,6 +57,8 @@ Visit the deployed website here → [Musical Theater Berlin](https://enniovilla.
 
 * I want to check the new courses
 
+[Back to top](<#content>)
+
 ## Design
 
 ### Website Structure
@@ -107,6 +109,8 @@ On the website I used a background image created in Canva in purple/dark blue wi
 
 The font I chose to use is [Open Sans](https://fonts.google.com/specimen/Open+Sans) from Google Fonts and as a fall back font, sans-serif.
 
+[Back to top](<#content>)
+
 ## Features and Future Features
 
 ### Features
@@ -156,6 +160,8 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 One feature I would like to have in the future is a carousel with images of course posters instead of having them static and I also would like to have a pop-up image with upcoming courses.
 
+[Back to top](<#content>)
+
 ## Technologies Used
 
 - HTML5 to create the website structure.
@@ -173,6 +179,8 @@ One feature I would like to have in the future is a carousel with images of cour
 - [Pixelied](https://pixelied.com/) to convert images to WEBP.
 - [Tinify](https://tinypng.com/) to compress images.
 - [Appetize.io](https://appetize.io/) to simulate the iOS environment.
+
+[Back to top](<#content>)
 
 ## Deployment, Fork and Clone
 
@@ -198,6 +206,8 @@ One feature I would like to have in the future is a carousel with images of cour
 3. Click on the **green Code button** and select if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link below.
 4. Navigate to the directory where you want to clone the repository and open terminal.
 5. Type *git clone* into the terminal and paste the link you have from number 3. Press enter. This command will download the entire repository to your local machine.
+
+[Back to top](<#content>)
 
 ## Testing
 
@@ -294,7 +304,7 @@ Sign Up page<br>
 <img src="documentation/lighthouse/mobile-sign-up.png">
 <br><br>
 </details>
-
+<br>
 <details>
 <summary>Desktop Results</summary>
 <br>
@@ -319,6 +329,9 @@ Sign Up page<br>
 <img src="documentation/lighthouse/desktop-sign-up.png">
 <br><br>
 </details>
+<br>
+
+[Back to top](<#content>)
 
 ## Bugs
 
@@ -327,6 +340,8 @@ Sign Up page<br>
 The website doesn't work as expected in the Safari browser for iOS and I couldn't do any extra tests because I don't have any Apple product. You can see that you can scroll down, but the navigation bar takes up the whole screen, the logo is completely stretched out and the menu doesn't open. I used appetize.io to simulate the iPhone 15 Pro Max.
 
 ![Safari bug](documentation/testing/safari-bug.png)
+
+[Back to top](<#content>)
 
 ## Credits
 
@@ -349,4 +364,6 @@ The website doesn't work as expected in the Safari browser for iOS and I couldn'
 I would like to acknowledge:
 - Kay Welfare - My cohort facilitator.
 - Jubril Akolade - My Code Institute mentor.
-- My friends who are supporting me and understand if I can't hang out with them because I need to finish my project. 
+- My friends who are supporting me and understand if I can't hang out with them because I need to finish my project.
+
+[Back to top](<#content>)
