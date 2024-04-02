@@ -272,14 +272,48 @@ I used Lighthouse to test the full performance of the website.
 
 <details>
 <summary>Mobile Results</summary>
-<br>
-Well, you asked for it!
+<br><br>
+Home page<br>
+img
+<br><br>
+About Us page<br>
+img
+<br><br>
+Courses page<br>
+img
+<br><br>
+Gallery page<br>
+img
+<br><br>
+Contact page<br>
+img
+<br><br>
+Sign Up page<br>
+img
+<br><br>
 </details>
 
 <details>
 <summary>Desktop Results</summary>
-<br>
-Well, you asked for it!
+<br><br>
+Home page<br>
+img
+<br><br>
+About Us page<br>
+img
+<br><br>
+Courses page<br>
+img
+<br><br>
+Gallery page<br>
+img
+<br><br>
+Contact page<br>
+img
+<br><br>
+Sign Up page<br>
+img
+<br><br>
 </details>
 
 ## Bugs
