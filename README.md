@@ -142,6 +142,7 @@ One feature I would like to have in the future is a carousel with images of cour
 - [Canva](https://www.canva.com/) to create the website's background image.
 - [Pixelied](https://pixelied.com/) to convert images to WEBP.
 - [Tinify](https://tinypng.com/) to compress images.
+- [Appetize.io](https://appetize.io/) to simulate the iOS environment.
 
 ## Deployment, Fork and Clone
 
@@ -241,4 +242,6 @@ I tested the website in different browsers.
 
 ### Known Bugs
 
+The website doesn't work as expected in the Safari browser for iOS and I couldn't do any extra tests because I don't have any Apple product. You can see that you can scroll down, but the navigation bar takes up the whole screen, the logo is completely stretched out and the menu doesn't open. I used appetize.io to simulate the iPhone 15 Pro Max.
 
+![Safari bug](documentation/testing/safari-bug.png)
