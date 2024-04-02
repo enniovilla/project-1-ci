@@ -226,6 +226,7 @@ I tested all the buttons and links throughout the creation of the website and di
 | Musical posters on the home page | Highlighted when the mouse hovers over them | Hovered mouse over posters | Highlights border |
 | Sign up and Send buttons | Submit forms | Clicked button | Submit form |
 | Send form without white space | Form cannot be sent with white spaces | Tested submitting with white space on each label | The form is not sent |
+| Social media links | Social media links should open externally | Clicked on social media icons at the bottom of the page | The links open externally |
 
 #### Browser Testing
 
@@ -245,3 +246,4 @@ I tested the website in different browsers.
 The website doesn't work as expected in the Safari browser for iOS and I couldn't do any extra tests because I don't have any Apple product. You can see that you can scroll down, but the navigation bar takes up the whole screen, the logo is completely stretched out and the menu doesn't open. I used appetize.io to simulate the iPhone 15 Pro Max.
 
 ![Safari bug](documentation/testing/safari-bug.png)
+
