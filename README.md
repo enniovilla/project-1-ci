@@ -272,47 +272,51 @@ I used Lighthouse to test the full performance of the website.
 
 <details>
 <summary>Mobile Results</summary>
-<br><br>
+<br>
 Home page<br>
-img
+<img src="documentation/lighthouse/mobile-home.png"><br><br>
+The value of Best Practices is low because of YouTube's cookies.<br>
+<img src="documentation/lighthouse/cookies.png">
 <br><br>
 About Us page<br>
-img
+<img src="documentation/lighthouse/mobile-about-us.png">
 <br><br>
 Courses page<br>
-img
+<img src="documentation/lighthouse/mobile-courses.png">
 <br><br>
 Gallery page<br>
-img
+<img src="documentation/lighthouse/mobile-gallery.png">
 <br><br>
 Contact page<br>
-img
+<img src="documentation/lighthouse/mobile-contact.png">
 <br><br>
 Sign Up page<br>
-img
+<img src="documentation/lighthouse/mobile-sign-up.png">
 <br><br>
 </details>
 
 <details>
 <summary>Desktop Results</summary>
-<br><br>
+<br>
 Home page<br>
-img
+<img src="documentation/lighthouse/desktop-home.png"><br><br>
+The value of Best Practices is low because of YouTube's cookies.<br>
+<img src="documentation/lighthouse/cookies.png">
 <br><br>
 About Us page<br>
-img
+<img src="documentation/lighthouse/desktop-about-us.png">
 <br><br>
 Courses page<br>
-img
+<img src="documentation/lighthouse/desktop-courses.png">
 <br><br>
 Gallery page<br>
-img
+<img src="documentation/lighthouse/desktop-gallery.png">
 <br><br>
 Contact page<br>
-img
+<img src="documentation/lighthouse/desktop-contact.png">
 <br><br>
 Sign Up page<br>
-img
+<img src="documentation/lighthouse/desktop-sign-up.png">
 <br><br>
 </details>
 
