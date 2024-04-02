@@ -224,3 +224,6 @@ I tested all the buttons and links throughout the creation of the website and di
 | Stylized buttons | Change color when the mouse hovers over them | Hovered mouse over buttons | The color changes |
 | Musical posters on the home page | Highlighted when the mouse hovers over them | Hovered mouse over posters | Highlights border |
 | Sign up and Send buttons | Submit forms | Clicked button | Submit form |
+| Send form without white space | Form cannot be sent with white spaces | Tested submitting with white space on each label | The form is not sent |
+
+
