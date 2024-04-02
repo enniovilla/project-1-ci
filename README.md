@@ -251,7 +251,7 @@ I tested all the buttons and links throughout the creation of the website and di
 
 #### Browser Testing
 
-I tested the website in different browsers.
+I tested the website in different browsers, both on computer and mobile.
 
 | Browser | Result |
 | :--- | :--- |
