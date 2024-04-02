@@ -124,7 +124,7 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 ### Future Features
 
-One feature I would like to have in the future is a carousel with images of course posters instead of having them static.
+One feature I would like to have in the future is a carousel with images of course posters instead of having them static and I also would like to have a pop-up image with upcoming courses.
 
 ## Technologies Used
 
@@ -188,9 +188,7 @@ The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and 
 #### Lighthouse
 
 
-### Manual Testing
-
-#### Testing User Stories
+### Testing User Stories
 
 - First time visitors
 
@@ -213,3 +211,16 @@ The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and 
 | Expectation | Result |
 | :--- | :--- |
 | I want to see if the school has new courses to offer. | I have created a display on the home page, so the user can easily see our current courses. |
+
+### Manual Testing
+
+I tested all the buttons and links throughout the creation of the website and did a final test. The result of the final test is below.
+
+| Feature | Expectation | Action | Result |
+| :--- | :--- | :--- | :--- |
+| Website's Logo | Takes the user to the home page | Clicked Logo | Home page loads |
+| Website's Title | Takes the user to the home page | Clicked Title | Home page loads |
+| Navigation bar buttons | Takes the user to the respective page | Clicked button | Respective page loads |
+| Stylized buttons | Change color when the mouse hovers over them | Hovered mouse over buttons | The color changes |
+| Musical posters on the home page | Highlighted when the mouse hovers over them | Hovered mouse over posters | Highlights border |
+| Sign up and Send buttons | Submit forms | Clicked button | Submit form |
