@@ -226,4 +226,19 @@ I tested all the buttons and links throughout the creation of the website and di
 | Sign up and Send buttons | Submit forms | Clicked button | Submit form |
 | Send form without white space | Form cannot be sent with white spaces | Tested submitting with white space on each label | The form is not sent |
 
+#### Browser Testing
+
+I tested the website in different browsers.
+
+| Browser | Result |
+| :--- | :--- |
+| Google Chrome | The website is responsive |
+| Microsoft Edge | The website is responsive |
+| Mozilla Firefox | The website is responsive |
+| Opera | The website is responsive |
+
+## Bugs
+
+### Known Bugs
+
 
