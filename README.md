@@ -94,12 +94,11 @@ Sign Up page<br>
 
 I wanted to play around with the colors a bit, so I chose to keep the navigation bar in a light color and the top part of the background always in a dark tone and the bottom part in a light tone, since the footer is in a dark tone, so I could have a nice contrast on the page and not irritating the user's eyes.
 
-On the website I used a background image created in Canva in purple/dark blue with musical notes in grayish colors and on the pages where I didn't use this image, I used a gradient of the dark tone with the light tone, thus playing with colors going from the darkest to the lightest tone.
+On the website I used a gradient of the dark tone with the light tone, thus playing with colors going from the darkest to the lightest tone.
 
 - I used the color `#FCDAD7` in the navigation bar.
 - I used the color `#F05244` for the edges of the containers on every page of the website. This color also appears when the user hovers over the buttons and the posters on the main page.
-- The gradient in the background when I didn't use the background image is made with the colors `#26174B` and `#FCDAD7`.
-- The background image created on Canva has color `#26174B`.
+- The gradient in the background is made with the colors `#26174B` and `#FCDAD7`.
 - On the buttons I chose `#AB2D8` to be the color.
 - The logo has three colors: `#F05244`, `#AB2D8` and `#5E276F`.
 
@@ -158,7 +157,8 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 ### Future Features
 
-One feature I would like to have in the future is a carousel with images of course posters instead of having them static and I also would like to have a pop-up image with upcoming courses.
+- I would like to have a carousel with images of current courses posters instead of having them static
+- I would like to have a pop up window with upcoming courses' images when the visitor accesses the website.
 
 [Back to top](<#content>)
 
@@ -175,7 +175,6 @@ One feature I would like to have in the future is a carousel with images of cour
 - [Favicon.io](https://favicon.io/) to create favicon.
 - [Am I Responsive?](https://ui.dev/amiresponsive) to display the website image across various devices.
 - [Font Awesome](https://fontawesome.com/) to add icons on the website.
-- [Canva](https://www.canva.com/) to create the website's background image.
 - [Pixelied](https://pixelied.com/) to convert images to WEBP.
 - [Tinify](https://tinypng.com/) to compress images.
 - [Appetize.io](https://appetize.io/) to simulate the iOS environment.
