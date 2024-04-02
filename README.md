@@ -268,6 +268,20 @@ The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and 
 
 #### Lighthouse
 
+I used Lighthouse to test the full performance of the website.
+
+<details>
+<summary>Mobile Results</summary>
+<br>
+Well, you asked for it!
+</details>
+
+<details>
+<summary>Desktop Results</summary>
+<br>
+Well, you asked for it!
+</details>
+
 ## Bugs
 
 ### Known Bugs

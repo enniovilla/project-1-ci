@@ -452,7 +452,7 @@ footer {
     align-items: center;
     width: 100%;
     background-color: #302154;
-    color: #F05244;
+    color: #fcdad7;
     height: 100px;
     box-shadow: 0 -2px 2px #F05244;
     padding: 20px;
@@ -467,7 +467,7 @@ footer div {
 }
 
 footer i {
-    color: #F05244;
+    color: #fcdad7;
 }
 
 @media screen and (min-width: 320px) {
