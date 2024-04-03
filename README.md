@@ -152,6 +152,11 @@ There is a contact form and the school's Google Maps location so that the user c
 Anyone wishing to enroll in one of the courses can do so on this page, which contains the sign-up form and the terms and conditions.
 ![MTB Sign Up Page](documentation/signup-page.gif)
 
+### Form Submit Page
+
+This custom page was created to show up after a form is submitted, whether it's a contact form or a sign-up form. The user cannot access it from the navigation bar.
+![MTB Form Submit Page](documentation/form-submitted-page.gif)
+
 ### Future Features
 
 - I would like to have a carousel with images of current courses posters instead of having them static
