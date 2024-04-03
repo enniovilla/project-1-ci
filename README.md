@@ -63,7 +63,7 @@ Visit the deployed website here → [Musical Theater Berlin](https://enniovilla.
 
 ### Website Structure
 
-The website consists of 6 page website that the user can navigate via the navigation bar, being the Home page the default loading page. The logo is in the top left corner and the menu is in the top right corner. In the middle is the name Musical Theater Berlin, which is clickable and takes the user to the home page. This navigation bar on small screen devices ends up centralizing the three elements and the menu becomes a dropdown menu.
+The website consists of 6-page website that the user can navigate via the navigation bar, being the Home page the default loading page. The logo is in the top left corner and the menu is in the top right corner. In the middle is the name Musical Theater Berlin, which is clickable and takes the user to the home page. This navigation bar on small screen devices ends up centralizing the three elements and the menu becomes a dropdown menu.
 
 ### Wireframes
 
@@ -119,7 +119,7 @@ This website includes 6 pages and all of them are responsive. They are: Home, Ab
 - A favicon.<br>
 ![MTB favicon](documentation/favicon-browser.png)
 
-- A navigation bar with clickable logo and names that will take the ser to the home page and the menu with sign up button highlighted to facilitate the user experience. If the user can scroll down, the navigation bar will be fixed at the top of the screen for easy access.
+- A navigation bar with clickable logo and names that will take the user to the home page and the menu with sign up button highlighted to facilitate the user experience. If the user can scroll down, the navigation bar will be fixed at the top of the screen for easy access.
 ![MTB Nav bar](documentation/nav-bar.png)
 
 ### The Home Page
@@ -127,8 +127,8 @@ This website includes 6 pages and all of them are responsive. They are: Home, Ab
 On the home page the user will find the message **Sing! Dance! Act!** which clearly gives the idea of what the website is about. Below that the user will also find the poster of the upcoming courses, which are highlighted when hovering over them and are clickable, taking to the description of each course if clicked.
 ![MTB posters](documentation/home-page.gif)
 
-At the bottom of the page there are some cards with testimonials from former students and just below that a more recent youtube video of a piece from the school that doesn't autoplay.
-![MTB youtube](documentation/bottom-home-page.gif)
+At the bottom of the page there are some cards with testimonials from former students and just below that a more recent YouTube video of a piece from the school that doesn't autoplay.
+![MTB YouTube](documentation/bottom-home-page.gif)
 
 ### The About Us Page
 
@@ -137,7 +137,7 @@ This page comprises the history of the school and a short biography of the teach
 
 ### The Courses Page
 
-On this page the user can see the description of the courses, the start and end date, as well as the button that takes them to the sign up page under each of the posters.
+On this page the user can see the description of the courses, the start and end date, as well as the button that takes them to the sign-up page under each of the posters.
 ![MTB Courses Page](documentation/courses-page.gif)
 
 ### Gallery Page
@@ -152,13 +152,13 @@ There is a contact form and the school's Google Maps location so that the user c
 
 ### Sign Up Page
 
-Anyone wishing to enroll in one of the courses can do so on this page, which contains the sign up form and the terms and conditions.
+Anyone wishing to enroll in one of the courses can do so on this page, which contains the sign-up form and the terms and conditions.
 ![MTB Sign Up Page](documentation/signup-page.gif)
 
 ### Future Features
 
 - I would like to have a carousel with images of current courses posters instead of having them static
-- I would like to have a pop up window with upcoming courses' images when the visitor accesses the website.
+- I would like to have a pop-up window with upcoming courses' images when the visitor accesses the website.
 
 [Back to top](<#content>)
 
@@ -175,7 +175,7 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 - [Favicon.io](https://favicon.io/) to create favicon.
 - [Am I Responsive?](https://ui.dev/amiresponsive) to display the website image across various devices.
 - [Font Awesome](https://fontawesome.com/) to add icons on the website.
-- [Pixelied](https://pixelied.com/) to convert images to WEBP.
+- [Pixelied](https://pixelied.com/) to convert images to WebP.
 - [Tinify](https://tinypng.com/) to compress images.
 - [Appetize.io](https://appetize.io/) to simulate the iOS environment.
 
@@ -185,7 +185,7 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 ### Deployment
 
-1. Log in to Github.
+1. Log in to GitHub.
 2. Go to the repository for the project.
 3. Click the settings button.
 4. Select **Pages** in the left navigation menu under Code and Automation.
@@ -194,7 +194,7 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 ### How to Fork
 
-1. Log in to Github.
+1. Log in to GitHub.
 2. Go to the repository for the project.
 3. Click the Fork button in the top right corner.
 
@@ -202,7 +202,7 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 1. Log in to GitHub.
 2. Go to the repository for the project.
-3. Click on the **green Code button** and select if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link below.
+3. Click on the **green code button** and select if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link below.
 4. Navigate to the directory where you want to clone the repository and open terminal.
 5. Type *git clone* into the terminal and paste the link you have from number 3. Press enter. This command will download the entire repository to your local machine.
 
@@ -225,8 +225,8 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 | Expectation | Result |
 | :--- | :--- |
 | I want to see which courses the school has to offer. | The user can see this information by clicking the button "Courses" in the navigation bar or click on the posters on the home page. |
-| I want to sign up for the courses. | I have created a highlighted Sign Up button in the navigation bar and below each course discription on the courses page. |
-| I want to enroll in the school easily. | The sign up form has very few boxes to fill. |
+| I want to sign up for the courses. | I have created a highlighted Sign Up button in the navigation bar and below each course description on the courses page. |
+| I want to enroll in the school easily. | The sign-up form has very few boxes to fill. |
 
 - Frequent Visitors
 
@@ -263,7 +263,7 @@ I tested the website in different browsers, both on computer and mobile.
 ### Automated Testing
 
 #### W3C Validator
-[W3C](https://validator.w3.org/) checked the HTML of the 6 pages and they passed the validation. A warning message shows up in all validations due to importing the font from Google Fonts.<br>The full results of the validations are shown below.
+[W3C](https://validator.w3.org/) checked the HTML of the 6 pages, and they passed the validation. A warning message shows up in all validations due to importing the font from Google Fonts. <br>The full results of the validations are shown below.
 - [Home page](documentation/testing/index.pdf)
 - [About Us page](documentation/testing/about-us.pdf)
 - [Courses page](documentation/testing/courses.pdf)
