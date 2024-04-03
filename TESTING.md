@@ -85,36 +85,36 @@ I used Lighthouse to test the full performance of the website.
 
 #### Mobile Results
 
-Home Page<br>
+- Home Page<br>
 ![Home page](documentation/lighthouse/mobile-home.png)<br><br>
 The value of Best Practices is low because of YouTube's cookies.<br>
 ![YouTube](documentation/lighthouse/cookies.png)<br><br>
-About Us Page<br>
+- About Us Page<br>
 ![About Us page](documentation/lighthouse/mobile-about-us.png)<br><br>
-Courses Page<br>
+- Courses Page<br>
 ![Courses page](documentation/lighthouse/mobile-courses.png)<br><br>
-Gallery Page<br>
+- Gallery Page<br>
 ![Gallery page](documentation/lighthouse/mobile-gallery.png)<br><br>
-Contact Page<br>
+- Contact Page<br>
 ![Contact page](documentation/lighthouse/mobile-contact.png)<br><br>
-Sign Up Page<br>
+- Sign Up Page<br>
 ![Sign up page](documentation/lighthouse/mobile-sign-up.png)<br>
 
 #### Desktop Results
 
-Home Page<br>
+- Home Page<br>
 ![Home page](documentation/lighthouse/desktop-home.png)<br><br>
 The value of Best Practices is low because of YouTube's cookies.<br>
 ![YouTube](documentation/lighthouse/cookies.png)<br><br>
-About Us Page<br>
+- About Us Page<br>
 ![About Us page](documentation/lighthouse/desktop-about-us.png)<br><br>
-Courses Page<br>
+- Courses Page<br>
 ![Courses page](documentation/lighthouse/desktop-courses.png)<br><br>
-Gallery Page<br>
+- Gallery Page<br>
 ![Gallery page](documentation/lighthouse/desktop-gallery.png)<br><br>
-Contact Page<br>
+- Contact Page<br>
 ![Contact page](documentation/lighthouse/desktop-contact.png)<br><br>
-Sign Up Page<br>
+- Sign Up Page<br>
 ![Sign up page](documentation/lighthouse/desktop-sign-up.png)<br>
 
 [Back to top](<#content>)
