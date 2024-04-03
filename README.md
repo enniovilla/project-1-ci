@@ -356,8 +356,36 @@ The website doesn't work as expected in the Safari browser for iOS and I couldn'
 
 ## Media
 
-- The posters for the musicals were taken from Google Images.
-- The images of people were taken from [Pexels](https://www.pexels.com/).
+The chosen images were taken from Google Images and [Pexels](https://www.pexels.com/).
+
+- Musical poster
+[Hairspray](https://destinationmansfield.com/event/hairspray-the-musical-at-renaissance-theatre/2021-07-31/)
+[Rocky Horror Show](https://dutchmuseumgiftshop.nl/de/produkt/rocky-horror-picture-show-poster/)
+[Les Misérables](https://br.pinterest.com/pin/31032684909024269/)
+[The Wizard of Oz](https://www.concordtheatricals.de/wizard-of-oz.html)
+
+- Testimony
+[First person](https://www.pexels.com/de-de/foto/selektiver-fokus-fotografie-der-frau-1239288/)
+[Second person](https://www.pexels.com/photo/smiling-man-in-white-shirt-6740141/)
+[Third Person](https://www.pexels.com/de-de/foto/eine-gluckliche-frau-im-lila-schal-die-musik-hort-3781789/)
+
+- The Team
+[Laura](https://www.pexels.com/photo/woman-in-collared-shirt-774909/)
+[Jennifer](https://www.pexels.com/photo/positive-asian-woman-wearing-white-blouse-in-studio-7626573/)
+[Eliza](https://www.pexels.com/de-de/foto/frau-die-brille-tragt-773371/)
+[Mark](https://www.pexels.com/photo/happy-young-man-in-jacket-and-beige-pants-18185492/)
+[Sade](https://www.pexels.com/de-de/foto/foto-der-frau-die-kopftuch-tragt-1820919/)
+[Matteo](https://www.pexels.com/photo/man-in-white-shirt-709188/)
+
+- Gallery
+[Photo 1](https://www.pexels.com/de-de/foto/mann-reflektierung-spiegelung-reflexion-4716578/)
+[Photo 2](https://www.pexels.com/photo/two-men-and-woman-wearing-different-costumes-6899941/)
+[Photo 3](https://www.pexels.com/photo/man-and-woman-dancing-6899942/)
+[Photo 4](https://www.pexels.com/photo/people-sitting-on-theater-chairs-4061506/)
+[Photo 5](https://www.pexels.com/photo/woman-in-black-and-white-dress-reading-a-book-13607537/)
+[Photo 6](https://www.pexels.com/photo/crop-black-man-putting-on-drag-queen-costume-7675997/)
+[Photo 7](https://www.pexels.com/photo/woman-wearing-creative-makeup-wrapped-in-blue-feather-13681744/)
+[Photo 8](https://www.pexels.com/de-de/foto/frau-die-ihre-hande-hebt-2506776/)
 
 ## Acknowledgments
 
