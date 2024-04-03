@@ -446,7 +446,7 @@ iframe {
     padding-bottom: 10px;
 }
 
-#form-submit {
+#form-submitted {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -605,7 +605,7 @@ footer i {
         column-count: 2;
     }
 
-    #form-submit .description {
+    #form-submitted .description {
         max-width: 410px;
     }
 

@@ -99,8 +99,8 @@ The value of Best Practices is low because of YouTube's cookies.<br>
 ![Contact page](documentation/lighthouse/mobile-contact.png)<br><br>
 - Sign Up Page<br>
 ![Sign up page](documentation/lighthouse/mobile-sign-up.png)<br><br>
-- Form Submit Page<br>
-![Form submit page](documentation/lighthouse/mobile-form-submitted.png)<br>
+- Form Submitted Page<br>
+![Form submitted page](documentation/lighthouse/mobile-form-submitted.png)<br>
 
 #### Desktop Results
 
@@ -117,6 +117,8 @@ The value of Best Practices is low because of YouTube's cookies.<br>
 - Contact Page<br>
 ![Contact page](documentation/lighthouse/desktop-contact.png)<br><br>
 - Sign Up Page<br>
-![Sign up page](documentation/lighthouse/desktop-sign-up.png)<br>
+![Sign up page](documentation/lighthouse/desktop-sign-up.png)<br><br>
+- Form Submitted Page<br>
+![Form submitted page](documentation/lighthouse/desktop-form-submitted.png)<br>
 
 [Back to top](<#content>)
