@@ -60,7 +60,7 @@ Visit the deployed website here → [Musical Theater Berlin](https://enniovilla.
 
 ### Website Structure
 
-The website consists of 6-page website that the user can navigate via the navigation bar, being the Home page the default loading page. The logo is in the top left corner and the menu is in the top right corner. In the middle is the name Musical Theater Berlin, which is clickable and takes the user to the home page. This navigation bar on small screen devices ends up centralizing the three elements and the menu becomes a dropdown menu.
+The website consists of a 7-page website, with 6 pages navigable via the navigation bar and the seventh being a customized page to inform the user that the content of the form has been submitted. The home page is the default loading page. The logo is in the top left corner and the menu is in the top right corner. In the middle is the name Musical Theater Berlin, which is clickable and takes the user to the home page. This navigation bar on small screen devices ends up centralizing the three elements and the menu becomes a dropdown menu.
 
 ### Wireframes
 
@@ -111,7 +111,7 @@ The font I chose to use is [Open Sans](https://fonts.google.com/specimen/Open+Sa
 
 ### Features
 
-This website includes 6 pages and all of them are responsive. They are: Home, About Us, Courses, Gallery, Contact and Sign Up. On each page we have:
+This website includes 7 pages and all of them are responsive. They are: Home, About Us, Courses, Gallery, Contact, Sign Up and Form Submitted. On each page we have:
 
 - A favicon.<br>
 ![MTB favicon](documentation/favicon-browser.png)
