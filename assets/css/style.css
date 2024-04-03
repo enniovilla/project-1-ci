@@ -10,7 +10,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    height: 100vh;
 }
 
 header {
@@ -451,7 +451,7 @@ iframe {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 790px;
+    height: 100vh;
 }
 
 #form-submit p {
