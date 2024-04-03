@@ -329,7 +329,7 @@ iframe {
     background: url(../images/pianist.webp) no-repeat center/cover;
 }
 
-.description p {
+.description>p {
     text-align: justify;
     padding: 20px 0 0;
     color: #ffffff;
@@ -340,6 +340,7 @@ iframe {
     text-align: center;
     color: #F05244;
     font-size: 26px;
+    padding-bottom: 10px;
 }
 
 #courses {
@@ -489,6 +490,10 @@ footer i {
         padding-bottom: 40px;
     }
 
+    .description>p {
+        padding: 20px 10px;
+    }
+
     #form {
         width: 90%;
         max-width: 800px;
@@ -560,6 +565,10 @@ footer i {
         flex-direction: row;
     }
 
+    .description>p {
+        padding: 20px 20px;
+    }
+
     .reverse {
         display: flex;
         flex-direction: row-reverse;
@@ -594,7 +603,7 @@ footer i {
     }
 
     section p {
-        max-width: 800px;
+        max-width: 1000px;
     }
 
     .team-container {
