@@ -215,7 +215,7 @@ Performed tests can be found in [TESTING.md](TESTING.md).
 
 ### Known Bugs
 
-The website doesn't work as expected in the Safari browser for iOS and I couldn't do any extra tests because I don't have any Apple product. You can see that you can scroll down, but the navigation bar takes up the whole screen, the logo is completely stretched out and the menu doesn't open. I used appetize.io to simulate the iPhone 15 Pro Max.
+The website doesn't work as expected in the Safari browser for iOS and I couldn't do any extra tests because I don't have any Apple product. You can see you can scroll down, but the navigation bar takes up the whole screen, the logo is completely stretched out and the menu doesn't open. I used [appetize.io](https://appetize.io/) to simulate the iPhone 15 Pro Max.
 
 ![Safari bug](documentation/testing/safari-bug.png)
 
