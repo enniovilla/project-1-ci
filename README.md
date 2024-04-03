@@ -207,7 +207,7 @@ Anyone wishing to enroll in one of the courses can do so on this page, which con
 
 ## Testing
 
-All the performed tests can be found in the document [TESTING.md](TESTING.md).
+Performed tests can be found in [TESTING.md](TESTING.md).
 
 [Back to top](<#content>)
 
