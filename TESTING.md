@@ -1,8 +1,20 @@
-    * [Testing User Stories](#testing-user-stories)
-    * [Automated Testing](#automated-testing)
-    * [Manual Testing](#manual-testing)
+# Musical Theater Berlin - Testing
 
-### Testing User Stories
+![Musical Theater Berlin](documentation/am-i-responsive.png)
+
+Visit the deployed website here → [Musical Theater Berlin](https://enniovilla.github.io/project-1-ci/)
+
+## Content
+
+* [Testing User Stories](#testing-user-stories)
+* [Manual Testing](#manual-testing)
+    * [Browser Testing](#browser-testing)
+* [Automated Testing](#automated-testing)
+    * [W3C Validator](#w3c-validator)
+    * [CSS Validator](#css-validator)
+    * [Lighthouse](#lighthouse)
+
+## Testing User Stories
 
 - First time visitors
 
@@ -26,7 +38,7 @@
 | :--- | :--- |
 | I want to see if the school has new courses to offer. | I have created a display on the home page, so the user can easily see our current courses. |
 
-### Manual Testing
+## Manual Testing
 
 I tested all the buttons and links throughout the creation of the website and did a final test. The result of the final test is below.
 
@@ -41,7 +53,7 @@ I tested all the buttons and links throughout the creation of the website and di
 | Send form without white space | Form cannot be sent with white spaces. | Tested submitting with white space on each label. | The form is not sent. |
 | Social media links | Social media links should open externally. | Clicked on social media icons at the bottom of the page. | The links open externally. |
 
-#### Browser Testing
+### Browser Testing
 
 I tested the website in different browsers, both on computer and mobile.
 
@@ -52,9 +64,9 @@ I tested the website in different browsers, both on computer and mobile.
 | Mozilla Firefox | The website is responsive. |
 | Opera | The website is responsive. |
 
-### Automated Testing
+## Automated Testing
 
-#### W3C Validator
+### W3C Validator
 [W3C](https://validator.w3.org/) checked the HTML of the 6 pages, and they passed the validation. A warning message shows up in all validations due to importing the font from Google Fonts. <br>The full results of the validations are shown below.
 - [Home page](documentation/testing/index.pdf)
 - [About Us page](documentation/testing/about-us.pdf)
@@ -63,63 +75,46 @@ I tested the website in different browsers, both on computer and mobile.
 - [Contact page](documentation/testing/contact.pdf)
 - [Sign Up page](documentation/testing/signup.pdf)
 
-#### CSS Validator
+### CSS Validator
 The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and passed the test. To see the full result, click on the name below.
 - [CSS](documentation/testing/css-validation.pdf)
 
-#### Lighthouse
+### Lighthouse
 
 I used Lighthouse to test the full performance of the website.
 
-<details>
-<summary>Mobile Results</summary>
-<br>
-Home page<br>
-<img src="documentation/lighthouse/mobile-home.png"><br><br>
+#### Mobile Results
+
+Home Page<br>
+![Home page](documentation/lighthouse/mobile-home.png)<br><br>
 The value of Best Practices is low because of YouTube's cookies.<br>
-<img src="documentation/lighthouse/cookies.png">
-<br><br>
-About Us page<br>
-<img src="documentation/lighthouse/mobile-about-us.png">
-<br><br>
-Courses page<br>
-<img src="documentation/lighthouse/mobile-courses.png">
-<br><br>
-Gallery page<br>
-<img src="documentation/lighthouse/mobile-gallery.png">
-<br><br>
-Contact page<br>
-<img src="documentation/lighthouse/mobile-contact.png">
-<br><br>
-Sign Up page<br>
-<img src="documentation/lighthouse/mobile-sign-up.png">
-<br><br>
-</details>
-<br>
-<details>
-<summary>Desktop Results</summary>
-<br>
-Home page<br>
-<img src="documentation/lighthouse/desktop-home.png"><br><br>
+![YouTube](documentation/lighthouse/cookies.png)<br><br>
+About Us Page<br>
+![About Us page](documentation/lighthouse/mobile-about-us.png)<br><br>
+Courses Page<br>
+![Courses page](documentation/lighthouse/mobile-courses.png)<br><br>
+Gallery Page<br>
+![Gallery page](documentation/lighthouse/mobile-gallery.png)<br><br>
+Contact Page<br>
+![Contact page](documentation/lighthouse/mobile-contact.png)<br><br>
+Sign Up Page<br>
+![Sign up page](documentation/lighthouse/mobile-sign-up.png)<br>
+
+#### Desktop Results
+
+Home Page<br>
+![Home page](documentation/lighthouse/desktop-home.png)<br><br>
 The value of Best Practices is low because of YouTube's cookies.<br>
-<img src="documentation/lighthouse/cookies.png">
-<br><br>
-About Us page<br>
-<img src="documentation/lighthouse/desktop-about-us.png">
-<br><br>
-Courses page<br>
-<img src="documentation/lighthouse/desktop-courses.png">
-<br><br>
-Gallery page<br>
-<img src="documentation/lighthouse/desktop-gallery.png">
-<br><br>
-Contact page<br>
-<img src="documentation/lighthouse/desktop-contact.png">
-<br><br>
-Sign Up page<br>
-<img src="documentation/lighthouse/desktop-sign-up.png">
-<br><br>
-</details>
-<br>
+![YouTube](documentation/lighthouse/cookies.png)<br><br>
+About Us Page<br>
+![About Us page](documentation/lighthouse/desktop-about-us.png)<br><br>
+Courses Page<br>
+![Courses page](documentation/lighthouse/desktop-courses.png)<br><br>
+Gallery Page<br>
+![Gallery page](documentation/lighthouse/desktop-gallery.png)<br><br>
+Contact Page<br>
+![Contact page](documentation/lighthouse/desktop-contact.png)<br><br>
+Sign Up Page<br>
+![Sign up page](documentation/lighthouse/desktop-sign-up.png)<br>
 
 [Back to top](<#content>)
