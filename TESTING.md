@@ -75,6 +75,7 @@ I tested the website in different browsers, both on computer and mobile.
 - [Gallery page](documentation/testing/gallery.pdf)
 - [Contact page](documentation/testing/contact.pdf)
 - [Sign Up page](documentation/testing/signup.pdf)
+- [Form Submitted page](documentation/testing/form-submitted.pdf)
 
 ### CSS Validator
 The CSS was validated by [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) and passed the test. To see the full result, click on the name below.
